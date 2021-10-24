@@ -1,0 +1,6 @@
+College Name,campus_name,city,state
+HCC,West Loop,Houston,TX
+HCC,Central,Houston,TX
+Harvard,Cambridge,Cambridge,MA
+UH,Central,Houston,TX
+UH,Sugaraland,Sugarland,TX
